@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="net.oneandone.reflections8:reflections8:0.11.7" type="repository">
+    <properties maven-id="net.oneandone.reflections8:reflections8:0.11.7" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/oneandone/reflections8/reflections8/0.11.7/reflections8-0.11.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/javassist/javassist/3.22.0-GA/javassist-3.22.0-GA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
