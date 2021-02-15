@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: reflections8-0.11.7.jar javassist-3.22.0-GA.jar
+
