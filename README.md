@@ -8,7 +8,7 @@
 
     public static void main(String[] args) {
         TestEngine te = new TestEngine("test package path");
-        te.run("method name"); //when only one method run
+        te.run("method name"); //when only one method runs
         te.run(); //all methods run in which @tester annotation is present.
     }
 
